@@ -35,7 +35,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "eris": "^0.13.2"
+    "eris": "^0.15.1"
   },
   "deprecated": false,
   "description": "Cluster management for Discord bots using the Eris library. Inspired by eris-sharder and @brussell98/megane.",
